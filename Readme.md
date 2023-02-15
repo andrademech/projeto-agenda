@@ -1,4 +1,4 @@
-# Agenda Project
+# Agenda Project MVC
 
 This project was build using Node an MongoDB.
 
